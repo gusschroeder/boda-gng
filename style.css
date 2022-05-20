@@ -1,0 +1,17 @@
+* {
+    background-color: beige;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+}
+
+.pic {
+    height: auto;
+    width: 400px;
+}
+
+.icon {
+    height: auto;
+    width: 100px;
+}
